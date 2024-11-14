@@ -1,4 +1,4 @@
-#<h1 align="center">Hi 👋, I'm Ali</h1>
+#<h1 align="center">Hi 👋, I'm Ali </h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
 
 - 📫 How to reach me **Mly748748@gmail.com**
